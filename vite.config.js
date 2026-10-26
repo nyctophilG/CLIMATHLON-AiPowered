@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 import fs from 'node:fs'
 import path from 'node:path'
 
+
 const REGIONAL_SEED_FILES = {
   waste: [
     {
@@ -341,4 +342,8 @@ function databaseFolderPlugin() {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), databaseFolderPlugin()],
+  server: {
+    host: true,
+    allowedHosts: true
+  },
 })
