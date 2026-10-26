@@ -1,0 +1,13 @@
+SOURCE FACILITY: Anatolia Thermal Power Station (Unit 3 Electrostatic Precipitator)
+BY-PRODUCT STREAM: Class F Coal Fly Ash (EWC Code: 10 01 02 - Non-Hazardous)
+STOICHIOMETRIC ASSAY (XRF Dry Weight):
+• Silicon Dioxide (SiO2): 54.8%
+• Aluminum Oxide (Al2O3): 26.4%
+• Iron Oxide (Fe2O3): 6.2%
+• Calcium Oxide (CaO): 3.9%
+• Loss on Ignition (LOI / Unburned Carbon): 2.1%
+PHYSICAL PROPERTIES:
+• Moisture Content: 0.4% (Bone dry silo storage)
+• Fineness (45 micron sieve retention): 14%
+• Annual Generation Rate: 25,000 metric tons/year
+• Current Disposal Status: Paid landfill gate fee (€42/ton) + dust suppression liability.

@@ -31,8 +31,3 @@ dist-ssr
 .env.test.local
 .env.production.local
 
-# Local Mock Database (Ignores your mock .txt files but keeps the folders)
-database/waste/*
-!database/waste/.gitkeep
-database/resource/*
-!database/resource/.gitkeep

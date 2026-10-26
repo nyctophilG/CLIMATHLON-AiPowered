@@ -1,0 +1,10 @@
+parameter,value,unit,ewc_classification,notes
+facility_name,SiliconWave Wafer Fabrication Plant,N/A,11 01 09*,Wet Etch Bay Neutralization Sludge
+stream_name,Spent HF/HNO3 Acid Etching Filter Cake,N/A,Hazardous,Toxic and Corrosive Filter Cake
+calcium_fluoride_caf2,34.2,%,11 01 09*,Unreacted fluorides and CaF2 precipitate
+arsenic_as,480,mg/kg,11 01 09*,ICP-MS dry weight assay
+cadmium_cd,65,mg/kg,11 01 09*,ICP-MS dry weight assay
+lead_pb,890,mg/kg,11 01 09*,ICP-MS dry weight assay
+chromium_vi,110,mg/kg,11 01 09*,Hexavalent chromium Cr(VI)
+residual_ph,2.1,pH,11 01 09*,Highly acidic sludge
+annual_generation_rate,8000,metric_tons/year,11 01 09*,Licensed hazardous landfill gate fee 210 EUR/ton

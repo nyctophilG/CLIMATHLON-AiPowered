@@ -1,0 +1,9 @@
+parameter,requirement,unit,regulation,notes
+facility_name,TerraViva Regenerative Organic Soil Co-op,N/A,EU 2019/1009,Arable Farmland Soil Conditioner
+target_ph_range,6.2 - 7.5,pH,EU 2019/1009,Neutral to slightly alkaline buffering
+max_cadmium_cd,1.5,mg/kg,EU 2019/1009,Strict dry matter ceiling
+max_chromium_vi,2.0,mg/kg,EU 2019/1009,Strict hexavalent chromium ceiling
+max_arsenic_as,40.0,mg/kg,EU 2019/1009,Strict dry matter ceiling
+max_lead_pb,120.0,mg/kg,EU 2019/1009,Strict dry matter ceiling
+max_soluble_fluoride,50.0,mg/kg,EU 2019/1009,Phytotoxic to root mycorrhizae above limit
+ewc_status,Non-Hazardous Only,N/A,Green-List,Strictly non-hazardous organic or mineral inputs
